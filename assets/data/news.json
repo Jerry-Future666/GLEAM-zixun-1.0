@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "brand": "GLEAM",
+    "brandZh": "恒熠聚声",
+    "title": "资讯",
+    "note": "Demo editorial copy. Replace with approved GLEAM content before launch."
+  },
+  "stories": [
+    {
+      "id": "gleam-2026-11-01",
+      "date": "2026-11-18",
+      "tag": { "zh": "计划", "en": "Programme" },
+      "title": {
+        "zh": "GLEAM 发布「声场漫游」计划，首站落地上海",
+        "en": "GLEAM Launches ‘Sonic Drift’, Debuting in Shanghai"
+      },
+      "summary": {
+        "zh": "一项把城市空间、现场声音与移动观众连接起来的长期计划。",
+        "en": "A long-term programme connecting urban space, live sound and a moving audience."
+      },
+      "body": {
+        "zh": [
+          "恒熠聚声 GLEAM 正式发布长期现场计划「声场漫游」。这项计划不以传统舞台为起点，而是把整座城市视为可以编辑的声场：建筑立面、地下通道、屋顶与街角，都可能成为一次短暂演出的发生地。",
+          "首站上海将以「潮汐」为主题，联合声音艺术家、舞者与城市研究者，在黄浦江沿岸完成三场移动式演出。观众不坐在固定座位上，而是佩戴无线耳机，跟随声音线索在城市中行走。",
+          "GLEAM 表示，未来两年「声场漫游」将进入更多城市，并与当地创作者共同建立可被保存和再次播放的城市声音档案。首站详细日程将于十二月公布。"
+        ],
+        "en": [
+          "GLEAM has announced Sonic Drift, a long-term live programme that begins not with a conventional stage but with the city itself as an editable sound field. Building facades, underpasses, rooftops and street corners can all become the site of a brief performance.",
+          "The Shanghai debut, titled Tidal, brings together sound artists, dancers and urban researchers for three moving performances along the Huangpu River. There is no fixed seating: the audience wears wireless headphones and follows sonic cues on foot through the city.",
+          "Over the next two years, Sonic Drift will travel to more cities and work with local creators to build an urban sound archive that can be preserved and replayed. Full dates for the Shanghai edition will be announced in December."
+        ]
+      },
+      "route": {
+        "from": [121.4737, 31.2304],
+        "to": [2.3522, 48.8566],
+        "fromLabel": "上海",
+        "toLabel": "巴黎"
+      }
+    },
+    {
+      "id": "gleam-2026-11-02",
+      "date": "2026-11-15",
+      "tag": { "zh": "档案", "en": "Archive" },
+      "title": {
+        "zh": "「城市回声」首批现场录音档案开放",
+        "en": "GLEAM Opens the First ‘City Echo’ Field Recording Archive"
+      },
+      "summary": {
+        "zh": "从清晨的菜市场到午夜的地铁站，一座城市的声音切片正式归档。",
+        "en": "From dawn markets to midnight metro stations, a city’s sonic slices enter the archive."
+      },
+      "body": {
+        "zh": [
+          "「城市回声」是 GLEAM 发起的声音档案项目，历时十个月，记录了北京、上海、成都与广州四座城市的日常声景。首批开放的档案包括二百余段现场录音、三十份声音地图与八组创作者手记。",
+          "项目团队使用双耳录音与多点阵列两种方式采集声音，并保留原始空间信息。听众在档案页面中不仅能够播放录音，也可以查看录制时间、天气、人流密度与录音者当日的行走路线。",
+          "GLEAM 计划将「城市回声」作为持续更新的公共资源，未来每季度开放一批新档案。首批内容现已上线，部分录音提供无障碍文字描述。"
+        ],
+        "en": [
+          "City Echo is a GLEAM-initiated sound archive ten months in the making, documenting everyday soundscapes in Beijing, Shanghai, Chengdu and Guangzhou. The first release includes more than two hundred field recordings, thirty sound maps and eight creator notebooks.",
+          "The team captured sound using both binaural recording and multi-point arrays, preserving the original spatial information. Visitors to the archive can play each recording and inspect the time, weather, crowd density and the recorder’s walking route that day.",
+          "GLEAM intends City Echo to be a continually growing public resource, with a new batch of material released every quarter. The first collection is online now, with text descriptions available for selected recordings."
+        ]
+      },
+      "route": {
+        "from": [116.4074, 39.9042],
+        "to": [36.8219, -1.2921],
+        "fromLabel": "北京",
+        "toLabel": "内罗毕"
+      }
+    },
+    {
+      "id": "gleam-2026-11-03",
+      "date": "2026-11-12",
+      "tag": { "zh": "合作", "en": "Partnership" },
+      "title": {
+        "zh": "GLEAM 与东京独立厂牌 LOOP/0 达成合作",
+        "en": "GLEAM Partners with Tokyo Independent Label LOOP/0"
+      },
+      "summary": {
+        "zh": "双方将共同制作一系列跨城市现场录音与限量声音出版物。",
+        "en": "The two teams will co-produce a series of cross-city live recordings and limited sound publications."
+      },
+      "body": {
+        "zh": [
+          "恒熠聚声 GLEAM 宣布与东京独立厂牌 LOOP/0 建立年度合作。LOOP/0 长期关注城市边缘的声音实践，擅长把现场录音、电子音乐与空间装置编织在一起。",
+          "合作的第一阶段将围绕「夜间移动」展开：双方创作者分别在上海与东京记录末班车之后的城市声音，并通过远程协作完成两首长篇幅作品。作品将以黑胶与数字两种形式发行。",
+          "此外，GLEAM 与 LOOP/0 将在明年春天共同策划一场双城同步聆听活动。两座城市的观众会在同一时间戴上耳机，听见彼此城市正在发生的声音。"
+        ],
+        "en": [
+          "GLEAM has announced a year-long partnership with Tokyo independent label LOOP/0. The label has long focused on sound practices at the edges of the city, weaving field recordings, electronic music and spatial installation into a single practice.",
+          "The first phase, Night Movement, will see creators in Shanghai and Tokyo record the city after the last train, then collaborate remotely on two long-form pieces. The works will be released on vinyl and digitally.",
+          "In spring next year, GLEAM and LOOP/0 will co-curate a simultaneous two-city listening event. Audiences in both cities will put on headphones at the same moment and hear what is happening in the other city."
+        ]
+      },
+      "route": {
+        "from": [103.8198, 1.3521],
+        "to": [55.2708, 25.2048],
+        "fromLabel": "新加坡",
+        "toLabel": "迪拜"
+      }
+    },
+    {
+      "id": "gleam-2026-11-04",
+      "date": "2026-11-09",
+      "tag": { "zh": "招募", "en": "Open Call" },
+      "title": {
+        "zh": "「微光」青年创作者计划启动招募",
+        "en": "GLEAM Opens ‘Glimmer’ Call for Young Creators"
+      },
+      "summary": {
+        "zh": "面向 18–30 岁的声音、影像与空间创作者，提供资金、场地与制作支持。",
+        "en": "Funding, space and production support for sound, moving-image and spatial practitioners aged 18–30."
+      },
+      "body": {
+        "zh": [
+          "「微光」是 GLEAM 面向青年创作者发起的年度支持计划。2027 年度将选出六组创作者，每组获得制作资金、为期三个月的排练空间，以及完整的制作与传播支持。",
+          "本年度主题为「未完成的现场」。申请者可以提交尚未被实现的演出构想、声音装置、影像计划或跨媒介项目，不要求提供完整成品。评审将关注提案与空间、观众之间的关系。",
+          "招募将于十二月二十日截止，入选结果于明年一月公布。GLEAM 表示，计划不收取任何报名费用，并将为异地创作者提供必要的差旅支持。"
+        ],
+        "en": [
+          "Glimmer is GLEAM’s annual support programme for young creators. Six selected projects will each receive production funding, three months of rehearsal space, and full production and communications support.",
+          "This year’s theme is The Unfinished Live. Applicants may submit a performance idea, sound installation, moving-image project or cross-disciplinary work that has not yet been realised; a finished piece is not required. The jury will look at how each proposal relates to space and audience.",
+          "The open call closes on 20 December, with selections announced in January. GLEAM notes that there is no application fee and that travel support is available for creators based outside the host city."
+        ]
+      },
+      "route": {
+        "from": [126.978, 37.5665],
+        "to": [151.2093, -33.8688],
+        "fromLabel": "首尔",
+        "toLabel": "悉尼"
+      }
+    },
+    {
+      "id": "gleam-2026-11-05",
+      "date": "2026-11-06",
+      "tag": { "zh": "现场", "en": "Live" },
+      "title": {
+        "zh": "GLEAM 获邀参加 2026 全球创意技术峰会",
+        "en": "GLEAM Invited to the 2026 Global Creative Tech Summit"
+      },
+      "summary": {
+        "zh": "团队将展示一套把实时城市数据转译为声音与光的现场系统。",
+        "en": "The team will present a live system that translates real-time urban data into sound and light."
+      },
+      "body": {
+        "zh": [
+          "GLEAM 确认受邀参加 2026 全球创意技术峰会，并将在主舞台呈现一场题为「信号之后」的现场演示。演示把交通流量、天气与公共空间人流数据接入一套实时声音与灯光系统。",
+          "与常规的屏幕演示不同，这场分享本身也是一次演出：数据不会提前被整理成图表，而是在现场被直接转译为节奏、音高与光束变化。观众将看到系统在不可预测的输入下如何做出反应。",
+          "峰会期间，GLEAM 还将在展区设置一个小型聆听站，开放团队过去一年的部分声音实验。演示场次与展区开放时间将在峰会日程公布后同步更新。"
+        ],
+        "en": [
+          "GLEAM will take part in the 2026 Global Creative Tech Summit with a main-stage presentation titled After the Signal. The demonstration feeds traffic flow, weather and public-space footfall data into a live sound and lighting system.",
+          "Rather than a conventional screen-led talk, the session is itself a performance: data is not pre-arranged into charts but translated in real time into rhythm, pitch and moving beams of light. The audience watches the system respond to unpredictable input.",
+          "During the summit, GLEAM will also host a small listening station in the exhibition area, opening up selected sound experiments from the past year. Presentation times and exhibition hours will be updated when the summit programme is published."
+        ]
+      },
+      "route": {
+        "from": [-122.4194, 37.7749],
+        "to": [72.8777, 19.076],
+        "fromLabel": "旧金山",
+        "toLabel": "孟买"
+      }
+    },
+    {
+      "id": "gleam-2026-11-06",
+      "date": "2026-11-03",
+      "tag": { "zh": "实验室", "en": "Lab" },
+      "title": {
+        "zh": "声音实验室落地柏林，首期驻留开放",
+        "en": "GLEAM Sound Lab Opens in Berlin with First Residency"
+      },
+      "summary": {
+        "zh": "一个面向跨媒介声音实践的工作空间，首期驻留主题为「边界频率」。",
+        "en": "A workspace for cross-disciplinary sound practice opens with the residency theme ‘Border Frequencies’."
+      },
+      "body": {
+        "zh": [
+          "GLEAM 的第三间声音实验室在柏林正式启用。空间位于一座旧工业建筑的顶层，包含一间可变声学主厅、两间录音室与一间面向公众开放的聆听室。",
+          "首期驻留以「边界频率」为主题，邀请四组创作者讨论国界、语言边界与听觉边界之间的关系。驻留期间，空间将每周开放一次，公众可以预约参与试听与工作坊。",
+          "实验室将与柏林本地机构共享部分设备与档案资源。GLEAM 表示，柏林空间不会复制此前的上海模式，而是由当地团队根据社区需求逐步建立自己的工作节奏。"
+        ],
+        "en": [
+          "GLEAM has opened its third sound lab in Berlin. Located on the top floor of a former industrial building, the space includes a variable-acoustics main hall, two recording rooms and a public listening room.",
+          "The first residency, Border Frequencies, invites four creative teams to examine the relationship between national borders, language boundaries and the edges of hearing. The space will open once a week during the residency for booked listening sessions and workshops.",
+          "The lab will share selected equipment and archival resources with Berlin-based organisations. GLEAM says the Berlin space will not replicate its Shanghai model; the local team will build its own working rhythm around the needs of the community."
+        ]
+      },
+      "route": {
+        "from": [13.405, 52.52],
+        "to": [18.4241, -33.9249],
+        "fromLabel": "柏林",
+        "toLabel": "开普敦"
+      }
+    },
+    {
+      "id": "gleam-2026-11-07",
+      "date": "2026-10-30",
+      "tag": { "zh": "品牌", "en": "Brand" },
+      "title": {
+        "zh": "GLEAM 完成品牌视觉升级，启用动态金色识别",
+        "en": "GLEAM Unveils a New Identity with a Living Gold Mark"
+      },
+      "summary": {
+        "zh": "新的识别系统以「信号经过之后留下的光」为概念，保留黑金基调。",
+        "en": "The new identity, built around ‘light left behind by a passing signal’, keeps the black-and-gold foundation."
+      },
+      "body": {
+        "zh": [
+          "恒熠聚声 GLEAM 完成品牌视觉系统升级，并发布新的动态标识。新标识以「信号经过之后留下的光」为概念，用一条不断变化的金色轨迹替代固定的图形轮廓。",
+          "在保留黑金基调的同时，新系统引入了更克制的排版、更多的留白与一套可变字重。线上界面中的金色不再作为装饰色使用，而是承担状态、方向与连接关系的提示。",
+          "新识别将首先应用于 GLEAM 的官方网站、资讯页面与线下活动物料，并逐步覆盖合作项目。完整的品牌手册将在本月内向合作方开放。"
+        ],
+        "en": [
+          "GLEAM has completed an upgrade of its visual identity and released a new motion mark. Built around the idea of light left behind by a passing signal, the mark replaces a fixed outline with a continually shifting gold trace.",
+          "While keeping the black-and-gold foundation, the system introduces more restrained typography, more negative space and a variable weight family. In digital interfaces, gold is no longer decorative; it now signals state, direction and connection.",
+          "The new identity will first appear on GLEAM’s website, news page and offline event materials before extending across partner projects. The full brand manual will be shared with collaborators this month."
+        ]
+      },
+      "route": {
+        "from": [-0.1276, 51.5072],
+        "to": [-46.6333, -23.5505],
+        "fromLabel": "伦敦",
+        "toLabel": "圣保罗"
+      }
+    },
+    {
+      "id": "gleam-2026-11-08",
+      "date": "2026-10-27",
+      "tag": { "zh": "企划", "en": "Project" },
+      "title": {
+        "zh": "年度企划「无界声场」公布首批阵容",
+        "en": "GLEAM Announces the First Wave for ‘Boundless Field’"
+      },
+      "summary": {
+        "zh": "十二组创作者将在四座城市完成一场持续四十八小时的声音接力。",
+        "en": "Twelve acts will pass a sound relay across four cities over forty-eight hours."
+      },
+      "body": {
+        "zh": [
+          "GLEAM 年度企划「无界声场」公布首批阵容。十二组来自音乐、舞蹈、建筑与视觉艺术领域的创作者，将在上海、东京、柏林与纽约四座城市完成一场持续四十八小时的声音接力。",
+          "企划不以单一舞台为中心，而是把每座城市的演出结束点作为下一座城市的开始点。观众可以通过现场、线上直播与线下聆听站三种方式进入，不同城市的时间差被保留在作品结构之中。",
+          "首批阵容包括三组新委约作品与两组跨国合作。完整阵容、城市顺序与直播入口将在十一月下旬公布。"
+        ],
+        "en": [
+          "GLEAM has revealed the first wave of Boundless Field, its annual project. Twelve acts from music, dance, architecture and visual art will pass a sound relay across Shanghai, Tokyo, Berlin and New York over forty-eight hours.",
+          "The project is not centred on a single stage. Instead, the end point of each city’s performance becomes the starting point of the next. Audiences can join in person, via livestream or at listening stations, with the time differences between cities kept as part of the work’s structure.",
+          "The first wave includes three newly commissioned works and two transnational collaborations. The full lineup, city sequence and livestream links will be announced in late November."
+        ]
+      },
+      "route": {
+        "from": [139.6917, 35.6895],
+        "to": [-74.006, 40.7128],
+        "fromLabel": "东京",
+        "toLabel": "纽约"
+      }
+    }
+  ]
+}
